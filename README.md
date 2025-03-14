@@ -49,6 +49,18 @@
         </div>
     </div>
     <div>
+        <h2>Public disk</h2>
+        My public <a href="https://disk.r7.ru/link/2b1ad4f4-a806-4a70-9ef5-a85575783ebc">files</a>
+    </div>
+    <div>
+        <h2>Coffee</h2>
+        <div>SOL: 3iTJZWFJrviWYMaJeeHfobQo1NSKmA7huSMaPHac1buG</div>
+        <div>ETH: 0xD34B270be83a4d698AA6e3440f0Cd48b03793Cc7</div>
+        <div>TON: UQCGIwEWzDDbGXgFYLvH_yWGpP0MMTzwlOv2nMxPaetAdhVX</div>
+        <div>TRON: TJYZcv7y47YaNiZWupnK7BgLeMhhCeEzQe</div>
+        <div>NANO: 3b5za3g5qq1ek7efagfw9wj55qr38t438e418un5n5rgrpthkyeiacw5od76</div>
+    </div>
+    <div>
         <h2>Stats</h2>
         <img src="https://github-readme-stats.vercel.app/api?username=pokedim13&show_icons=true&theme=dracula">
     </div>
