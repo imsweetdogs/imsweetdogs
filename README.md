@@ -43,10 +43,10 @@
         </div>
         <div>Write my social. See code:></div>
         <div>
-            <a src="https://t.me/h3try"><img src="https://img.shields.io/badge/TG-5DC8CD"></a>
-            <a src="https://vk.com/sweetdogs"><img src="https://img.shields.io/badge/VK-0C5DA5"></a>
-            <a src="https://osu.ppy.sh/users/33233712"><img src="https://img.shields.io/badge/Osu!-ff66ab"></a>
-        </div> 
+            <a href="https://t.me/h3try"><img src="https://img.shields.io/badge/TG-5DC8CD" alt="Telegram"></a>
+            <a href="https://vk.com/sweetdogs"><img src="https://img.shields.io/badge/VK-0C5DA5" alt="VK"></a>
+            <a href="https://osu.ppy.sh/users/33233712"><img src="https://img.shields.io/badge/Osu!-ff66ab" alt="Osu!"></a>
+        </div>
     </div>
     <div>
         <h2>Stats</h2>
