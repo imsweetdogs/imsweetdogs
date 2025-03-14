@@ -26,6 +26,7 @@
             <img src="https://img.shields.io/badge/-Django-%23E44D27?style=flat-square&logo=django&logoColor=ffffff">
             <img src="https://img.shields.io/badge/-FastApi-%231572B6?style=flat-square&logo=fastapi&logoColor=ffffff">
             <img src="https://img.shields.io/badge/-Celery-%23ffffff?style=flat-square&logo=celery&logoColor=000000">
+            <img src="https://img.shields.io/badge/-Docker-%230B0D0E?style=flat-square&logo=docker">
         </div>
         <div>
             <img src="https://img.shields.io/badge/-Python-%23E44D27?style=flat-square&logo=python&logoColor=ffffff">
