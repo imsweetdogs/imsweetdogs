@@ -41,7 +41,7 @@
         <div>
         I don't currently work... I'm freedom:>
         </div>
-        <div>Write my social. See code:></div>
+        <div>Write my social></div>
         <div>
             <a href="https://t.me/h3try"><img src="https://img.shields.io/badge/TG-5DC8CD" alt="Telegram"></a>
             <a href="https://vk.com/sweetdogs"><img src="https://img.shields.io/badge/VK-0C5DA5" alt="VK"></a>
