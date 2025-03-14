@@ -46,6 +46,7 @@
             <a href="https://t.me/h3try"><img src="https://img.shields.io/badge/TG-5DC8CD" alt="Telegram"></a>
             <a href="https://vk.com/sweetdogs"><img src="https://img.shields.io/badge/VK-0C5DA5" alt="VK"></a>
             <a href="https://osu.ppy.sh/users/33233712"><img src="https://img.shields.io/badge/Osu!-ff66ab" alt="Osu!"></a>
+            <a href="https://steamcommunity.com/id/sweetdogs"><img src="https://img.shields.io/badge/Steam-0C5DA5" alt="VK"></a>
         </div>
     </div>
     <div>
