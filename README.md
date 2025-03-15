@@ -54,6 +54,10 @@
         My public <a href="https://disk.r7.ru/link/2b1ad4f4-a806-4a70-9ef5-a85575783ebc">files</a>
     </div>
     <div>
+        <h2>Personal package index</h2>
+        My personal <a href="https://gitverse.ru/sweetdogs?tab=packages">package index</a>
+    </div>
+    <div>
         <h2>Coffee</h2>
         <div>SOL: 3iTJZWFJrviWYMaJeeHfobQo1NSKmA7huSMaPHac1buG</div>
         <div>ETH: 0xD34B270be83a4d698AA6e3440f0Cd48b03793Cc7</div>
