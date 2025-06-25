@@ -1,73 +1,40 @@
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&duration=2000&pause=1000&center=true&multiline=true&repeat=false&width=435&lines=Hello%2C+Hello;I'm+Sweetdogs,+a+tech+geek+and+clown)" alt="Typing SVG" />
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%9C%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+Sweetdogs%3A)" alt="Typing SVG" /></a>
     <div>
-        <h2>My Tech Stack</h2>
+        <h2>Сейчас работаю над:</h2>
         <div>
-            <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff">
-            <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3">
-            <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A">
-            <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white">
-            <img src="https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vuedotjs">
-            <img src="https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css">
-            <img src="https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff">
-            <img src="https://img.shields.io/badge/-Vitepress-%23646CFF?style=flat-square&logo=vitepress&logoColor=ffffff">
-            <img src="https://img.shields.io/badge/-WindiCSS-%23000000?style=flat-square&logo=tailwind-css&&logoColor=48B0F1">
+        С работой сложно... Так, что я свободен:>
         </div>
+        <div>Мой соц. сети:></div>
         <div>
-            <img src="https://img.shields.io/badge/-Git-%23E44D27?style=flat-square&logo=git&logoColor=ffffff">
-            <img src="https://img.shields.io/badge/-nvim-%231572B6?style=flat-square&logo=neovim&logoColor=ffffff">
-            <img src="https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff">
-            <img src="https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000">
-            <img src="https://img.shields.io/badge/-Railway-%230B0D0E?style=flat-square&logo=railway">
-            <img src="https://img.shields.io/badge/-Render-%2346E3B7?style=flat-square&logo=render&logoColor=ffffff">
-            <img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab">
-        </div>
-        <div>
-            <img src="https://img.shields.io/badge/-Django-%23E44D27?style=flat-square&logo=django&logoColor=ffffff">
-            <img src="https://img.shields.io/badge/-FastApi-%231572B6?style=flat-square&logo=fastapi&logoColor=ffffff">
-            <img src="https://img.shields.io/badge/-Celery-%23ffffff?style=flat-square&logo=celery&logoColor=000000">
-            <img src="https://img.shields.io/badge/-Docker-%230B0D0E?style=flat-square&logo=docker">
-        </div>
-        <div>
-            <img src="https://img.shields.io/badge/-Python-%23E44D27?style=flat-square&logo=python&logoColor=ffffff">
-            <img src="https://img.shields.io/badge/-Go-%231572B6?style=flat-square&logo=go&logoColor=ffffff">
-            <img src="https://img.shields.io/badge/-Rust-%2300C7B7?style=flat-square&logo=rust&logoColor=ffffff">
-            <img src="https://img.shields.io/badge/-PHP-%23ffffff?style=flat-square&logo=php&logoColor=000000">
-            <img src="https://img.shields.io/badge/-Kotlin-%23646CFF?style=flat-square&logo=kotlin&logoColor=ffffff">
-        </div>
-    </div>
-    <div>
-        <h2>Currently working on</h2>
-        <div>
-        I don't currently work... I'm freedom:>
-        </div>
-        <div>Write my social:></div>
-        <div>
-            <a href="https://t.me/h3try"><img src="https://img.shields.io/badge/TG-5DC8CD" alt="Telegram"></a>
+            <a href="https://t.me/imsweetdogs"><img src="https://img.shields.io/badge/TG-5DC8CD" alt="Telegram"></a>
             <a href="https://vk.com/sweetdogs"><img src="https://img.shields.io/badge/VK-0C5DA5" alt="VK"></a>
-            <a href="https://osu.ppy.sh/users/33233712"><img src="https://img.shields.io/badge/Osu!-ff66ab" alt="Osu!"></a>
-            <a href="https://steamcommunity.com/id/sweetdogs"><img src="https://img.shields.io/badge/Steam-0C5DA5" alt="Steam"></a>
-            <a href="https://www.youtube.com/@h3try"><img src="https://img.shields.io/badge/Youtube-%23E44D27" alt="Youtube"></a>
+            <a href="https://lolz.live/members/6330060/"><img src="https://img.shields.io/badge/Lolz-188045" alt="Lolz"></a>
+            <a href="https://www.guilded.gg/u/sweetdogs"><img src="https://img.shields.io/badge/Guilded-fcba03" alt="Guilded"></a>
         </div>
     </div>
     <div>
-        <h2>Public disk</h2>
-        My public <a href="https://disk.r7.ru/link/2b1ad4f4-a806-4a70-9ef5-a85575783ebc">files</a>
+        <h2>Публичный диск</h2>
+        Мои публичные <a href="https://cddisk.r7.ru/link/db250a21-aaaa-4830-9e13-2d9588b0cdfa">файлы</a>
     </div>
     <div>
-        <h2>Personal package index</h2>
-        My personal <a href="https://gitverse.ru/sweetdogs?tab=packages">package index</a>
+        <h2>Личный индекс пакетов</h2>
+        Мой персональный <a href="https://gitverse.ru/sweetdogs?tab=packages">индекс пакетов</a>
     </div>
     <div>
-        <h2>Coffee</h2>
-        <div>SOL: 3iTJZWFJrviWYMaJeeHfobQo1NSKmA7huSMaPHac1buG</div>
-        <div>ETH: 0xD34B270be83a4d698AA6e3440f0Cd48b03793Cc7</div>
+        <h2>На грязную воду</h2>
         <div>TON: UQCGIwEWzDDbGXgFYLvH_yWGpP0MMTzwlOv2nMxPaetAdhVX</div>
-        <div>TRON: TJYZcv7y47YaNiZWupnK7BgLeMhhCeEzQe</div>
-        <div>NANO: 3b5za3g5qq1ek7efagfw9wj55qr38t438e418un5n5rgrpthkyeiacw5od76</div>
+        <div>SOL: BoMvG87y1L3VxSwk9WYTS5rbXn1R3nyPrquqzBBd7Htw</div>
+        <div>ETH: 0x741fd5bc1B11AF502C49f2de2bbb5654b2886935</div>
+        <div>BTC: bc1qe0w6qedvzt6qxmpgf3tpv5ycyscfwu567k67mx</div>
     </div>
     <div>
-        <h2>Stats</h2>
-        <img src="https://github-readme-stats.vercel.app/api?username=pokedim13&show_icons=true&theme=dracula">
+        <h2>Ники</h2>
+        <a href="https://mynickname.com/id1828913"><img src="https://mynickname.com/img.php?nick=sweetdogs&sert=2" alt="Никнейм sweetdogs зарегистрирован!" border="0" /></a>
+        <a href="https://mynickname.com/id1832578"><img src="https://mynickname.com/img.php?nick=imsweetdogs&sert=2" alt="Никнейм imsweetdogs зарегистрирован!" border="0" /></a>
+    </div>
+    <div>
+        <h2>Статистика</h2>
+        <img src="https://github-readme-stats.vercel.app/api?username=imsweetdogs&show_icons=true&theme=dracula">
     </div>
 </div>
